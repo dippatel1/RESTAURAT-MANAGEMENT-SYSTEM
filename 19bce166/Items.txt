@@ -1,0 +1,16 @@
+Manchurian,75
+Spring Roll,175
+Samosa,150
+Biryani,100
+Pav Bhaji,150
+Dal Tadka,75
+Chole Bhature,200
+Punjabi Thali,125
+Paneer Butter Masala,100
+Butter Naan,80
+Dosa,125
+Idli,120
+French Fries,130
+Burger,110
+Gulab Jamun,80
+Ice Cream,85
